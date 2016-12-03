@@ -11,3 +11,4 @@ child( X,Y):- parent( Y,X).
 ?- parent( liza, X).
 ?- child( X, liza).
 
+%коммент
